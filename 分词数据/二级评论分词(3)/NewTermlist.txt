@@ -1,0 +1,2 @@
+﻿Word	Part-Of-Speech	Weight	Frequency
+伦理问题	n_new	12.20	9

@@ -1,0 +1,4 @@
+﻿Word	Part-Of-Speech	Weight	Frequency
+修改一个基因	n_new	13.81	2
+人类自然	n_new	7.76	2
+生孩子	n_new	7.76	2

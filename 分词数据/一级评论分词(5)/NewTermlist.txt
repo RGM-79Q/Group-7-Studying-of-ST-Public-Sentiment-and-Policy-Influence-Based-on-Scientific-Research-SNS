@@ -1,0 +1,1 @@
+﻿Word	Part-Of-Speech	Weight	Frequency

@@ -1,0 +1,3 @@
+﻿Word	Part-Of-Speech	Weight	Frequency
+基因改变	n_new	12.80	6
+道德伦理	n_new	7.59	3

@@ -1,0 +1,3 @@
+﻿Word	Part-Of-Speech	Weight	Frequency
+抗性	n_new	7.76	2
+主顶住	n_new	-1.00	3

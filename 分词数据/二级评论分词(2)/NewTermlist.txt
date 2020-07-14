@@ -1,0 +1,2 @@
+﻿Word	Part-Of-Speech	Weight	Frequency
+可以用于	n_new	-1.00
